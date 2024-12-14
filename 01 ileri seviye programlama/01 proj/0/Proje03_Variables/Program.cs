@@ -1,27 +1,62 @@
-﻿// namespace Proje03_Variables;
+﻿// string içinde \r ne işe yarar araştırınız 
 
-class Program
-{
-    static void Main(string[] args)
+// SENKRON!!!!!!!!!
+
+// System.Console.WriteLine("1. İŞLEM (5 saniye )");
+
+// for (int i = 1; i <= 5; i++)
+// {
+    
+//     System.Console.WriteLine($"[\r1.işlem ] geçen süre: {i} sn");
+//     Thread.Sleep(1000);
+// }
+// System.Console.WriteLine("1. İŞLEM (5 saniye ) sona erdi ");
+
+
+
+// System.Console.WriteLine("2. İŞLEM (10 saniye )");
+
+// for (int i = 1; i <= 10; i++)
+// {
+    
+//     System.Console.WriteLine($"[\r2.işlem ] geçen süre: {i} sn");
+//     Thread.Sleep(1000);
+// }
+// System.Console.WriteLine("2. İŞLEM (10 saniye ) sona erdi ");
+
+
+// ASENKRON !!!!!!!!!
+
+string task1Status= "5 saniyelik işlem bekleniyor...";
+string task2Status = "10 saniyelik işlem bekleniyor...";
+
+Thread thread1 = new Thread(()=>{
+
+    for (int i = 1 ; i <= 5; i++)
     {
-       /* 
-       
-       nullable types 
-       bu tipler , bir değerin yok (null) olabilmesine izin veren veri türleridir.
-       Genellikle referans tipler için mümküün olan bir durumdur 
-       varsayılan olarak null değer içeremen value typler istenilirse null deper içerebilecek hale getirilebilinir ? ile 
-       
-
-        var anahtar kelimesi tür çıkarımı (type inference) sağlayan bir kelimedir. Derleyici , değişkenin türünü
-        atanan değerden bakarak otomatik olarak belirler. Derleme zamanında bu tür sabit bir şekilde belirlenmiş olur
-
-        - var kullanımı , türün açık bir şekilde belli oldugu durumlarda kullanılırsa daha sağlıklı olur. tür bir kez
-        belirlendikten sonra değiştirilemez.    
-
-        dynamic , derleme zamanında tür kontrolü yapmadan çalışma zamanında geçerek orada bu çıkarsamanın yapılmasını
-        sağlar . Bu yönüyle daha esnek bir yapı sunarken hatalara da daha açık bir tekniktir.
-
-
-        */
+        task1Status =$"5 saniyelik işlem için geçen süre: {i} sn";
+        Console.Clear();
+        System.Console.WriteLine($"{task1Status}\n{task2Status} ");
+        Thread.Sleep(1000);
     }
-}
+    task1Status = "5 saniyelik işlem Tamamlandı!";
+    System.Console.WriteLine($"{task1Status}\n{task2Status} ");
+
+});
+
+Thread thread2 = new Thread(()=>{
+
+    for (int i = 1 ; i <= 10; i++)
+    {
+        task2Status =$"10 saniyelik işlem için geçen süre: {i} sn";
+        System.Console.WriteLine($"{task1Status}\n{task2Status} ");
+        Thread.Sleep(1000);
+    }
+    task2Status = "10 saniyelik işlem Tamamlandı!";
+    System.Console.WriteLine($"{task1Status}\n{task2Status} ");
+
+});
+
+thread1.Start();
+thread2.Start();
+

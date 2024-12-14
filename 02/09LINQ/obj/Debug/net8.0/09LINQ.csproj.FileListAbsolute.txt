@@ -1,0 +1,15 @@
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\bin\Debug\net8.0\09LINQ.exe
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\bin\Debug\net8.0\09LINQ.deps.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\bin\Debug\net8.0\09LINQ.runtimeconfig.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\bin\Debug\net8.0\09LINQ.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\bin\Debug\net8.0\09LINQ.pdb
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.AssemblyInfoInputs.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.AssemblyInfo.cs
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.csproj.CoreCompileInputs.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.sourcelink.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\refint\09LINQ.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.pdb
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\09LINQ.genruntimeconfig.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\09LINQ\obj\Debug\net8.0\ref\09LINQ.dll

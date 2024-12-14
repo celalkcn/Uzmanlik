@@ -1,0 +1,15 @@
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\bin\Debug\net8.0\Proje10_LINQ_Samples.exe
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\bin\Debug\net8.0\Proje10_LINQ_Samples.deps.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\bin\Debug\net8.0\Proje10_LINQ_Samples.runtimeconfig.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\bin\Debug\net8.0\Proje10_LINQ_Samples.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\bin\Debug\net8.0\Proje10_LINQ_Samples.pdb
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.AssemblyInfoInputs.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.AssemblyInfo.cs
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.csproj.CoreCompileInputs.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.sourcelink.json
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\refint\Proje10_LINQ_Samples.dll
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.pdb
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\Proje10_LINQ_Samples.genruntimeconfig.cache
+c:\Users\celalkocan\Documents\GitHub\Uzmanlik\02\Proje10_LINQ_Samples\Proje10_LINQ_Samples\Proje10_LINQ_Samples\obj\Debug\net8.0\ref\Proje10_LINQ_Samples.dll
