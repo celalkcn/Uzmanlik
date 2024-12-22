@@ -1,0 +1,12 @@
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\bin\Debug\net8.0\DemoTerminal.Entity.deps.json
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\bin\Debug\net8.0\DemoTerminal.Entity.dll
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\bin\Debug\net8.0\DemoTerminal.Entity.pdb
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.AssemblyInfoInputs.cache
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.AssemblyInfo.cs
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.csproj.CoreCompileInputs.cache
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.sourcelink.json
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.dll
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\refint\DemoTerminal.Entity.dll
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\DemoTerminal.Entity.pdb
+C:\Users\celalkocan\Documents\GitHub\Uzmanlik\Proje14_EfCore\DemoTerminal\DemoTerminal.Entity\obj\Debug\net8.0\ref\DemoTerminal.Entity.dll
